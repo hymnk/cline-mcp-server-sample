@@ -35,3 +35,9 @@ This project was created using `bun init` in bun v1.2.5. [Bun](https://bun.sh) i
   }
 }
 ```
+
+3. Enable the MCPServer in Cline:
+   - Open the Command Palette (Ctrl+Shift+P or Cmd+Shift+P)
+   - Search for "Cline: Refresh MCP Servers"
+   - Select the command to refresh and enable the server
+   - Verify the server is running by checking the Cline status bar
